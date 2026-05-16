@@ -1,4 +1,3 @@
-# SQL-Ecommerce-Analysis
 # SQL E-commerce Analysis Project
 
 ## Project Overview
